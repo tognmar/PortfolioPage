@@ -12,7 +12,7 @@ This project is a work in progress.
 - Mapping: Leaflet.js
 - DevOps: Docker, NGINX
 
-### 🔗 [GitHub Repository](https://github.com/tognmar/collecticproject)
+### 🔗 [GitHub Repository](https://github.com/tognmar/collectic)
 
 ### 📽️ Demo
 
