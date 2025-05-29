@@ -13,12 +13,9 @@ This project is a work in progress.
 
 ### 🔗 [GitHub Repository](https://github.com/tognmar/collecticproject)
 
-### Demo
+### 📽️ Demo
 
 <video width="720" controls>
-  <source src="assets/videos/DemoCollecTic.mp4" type="video/mp4">
+  <source src="assets/videos/DemoCollectic.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-
-
