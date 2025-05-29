@@ -1,4 +1,5 @@
 # Project
+
 ## CollecTic
 - CollecTic is a full-stack web app developed as a 3-week project for concert and event enthusiasts to digitally archive and showcase their ticket collections. Users can upload or photograph tickets, and AI extracts event details (artist, venue, date, location), which are stored in a personal gallery. An interactive map displays all attended event locations.
 This project is a work in progress.
