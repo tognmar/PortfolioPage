@@ -1,4 +1,4 @@
-# Projects
+# My Projects
 ## CollecTic Project
 - Description
 - Links
