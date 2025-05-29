@@ -17,6 +17,6 @@ This project is a work in progress.
 ### 📽️ Demo
 
 <video width="720" controls>
-  <source src="assets/videos/DemoCollectic.mp4" type="video/mp4">
+  <source src="assets/video/DemoCollectic.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
