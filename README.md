@@ -1,5 +1,5 @@
 # My Projects
-## CollecTic Project
+## CollecTic
 - Description
 - Links
 ## Social Media
