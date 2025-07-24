@@ -1,16 +1,27 @@
-## CollecTic
-- CollecTic is a full-stack web app developed as a 3-week project for concert and event enthusiasts to digitally archive and showcase their ticket collections. Users can upload or photograph tickets, and AI extracts event details (artist, venue, date, location), which are stored in a personal gallery. An interactive map displays all attended event locations.
+# CollecTic
 
-🔧 Note: This project is a work in progress.
+CollecTic is a full-stack web application built over a focused 3-week sprint by a passionate team of three, crafted especially for concertgoers and event lovers to digitally preserve, organize, and share their treasured ticket collections. This project was born from a shared love for live experiences and the desire to keep those memories alive in a unique way. Users can upload or photograph their tickets, while AI seamlessly extracts key event information—artist, venue, date, and location—saving it all to a personal, searchable gallery. An interactive map is highlighting every event attended across diverse locations. More than just an archive, CollecTic makes it easy to revisit, organize, and share your musical and event milestones with others who share your passion.
+
+> _Note: This project is a work in progress, with ongoing improvements and feature development._
 
 ### Key Features
 
-- **Upload or Photograph Tickets:** Add tickets by uploading an image/PDF or taking a photo directly within the app.
-- **AI-Powered Ticket Scanning:** Automatically extract event details (artist, venue, date, location) using GPT-4o-mini via the OpenAI API.
-- **Personal Ticket Gallery**: View and manage a personalized, visual archive of your event history.
-- **Interactive Map of Events:** All attended event locations are plotted on a Leaflet.js-powered map.
-- **Social Features:** Follow other users, view their profiles, and explore their ticket collections.
-  
+- **Upload or Photograph Tickets**  
+  Add ticket images or PDFs, or capture photos directly within the app.
+
+- **AI-Powered Ticket Scanning**  
+  Automatically extract event details—artist, venue, date, and location—using GPT-4o-mini via the OpenAI API.
+
+- **Personal Ticket Gallery**  
+  Seamlessly manage a private, visual archive of your event history.
+
+- **Interactive Map**  
+  Visualize all attended event locations on a digital map.
+
+- **Social Features**  
+  Follow other users and browse their collections to connect with the community.
+
+
 ### 🛠 Tech Stack
 - Frontend: React, TailwindCSS, DaisyUI
 - Backend: Django, Python
@@ -19,7 +30,9 @@
 - Mapping: Leaflet.js
 - DevOps: Docker, NGINX
 
+
 ### 🔗 [GitHub Repository](https://github.com/tognmar/collectic)
+
 
 ### Demo
 
