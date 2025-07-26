@@ -1,6 +1,6 @@
 title: Marina Togn
 description: Junior Full-Stack Developer | HRIS & Data Analyst Background
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
 author:
