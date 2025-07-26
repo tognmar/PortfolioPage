@@ -4,12 +4,15 @@ CollecTic is a full-stack web application built over a focused 3-week sprint by 
 
 > _Note: This project is a work in progress, with ongoing improvements and feature development._
 
+
 ### 🚀 Demo
 
 <video width="720" controls>
   <source src="assets/video/DemoCollecTic.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
 
 ### 💡 Key Features
 
