@@ -7,29 +7,19 @@ CollecTic is a full-stack web application built over a focused 3-week sprint by 
 
 ### 🚀 Demo
 
-<video width="720" controls>
+<video width="720" controls style="margin-bottom: 30px;">
   <source src="assets/video/DemoCollecTic.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
-
 ### 💡 Key Features
 
-- **Upload or Photograph Tickets**  
-  Add ticket images or PDFs, or capture photos directly within the app.
-
-- **AI-Powered Ticket Scanning**  
-  Automatically extract event details—artist, venue, date, and location—using GPT-4o-mini via the OpenAI API.
-
-- **Personal Ticket Gallery**  
-  Manage a private, visual archive of your event history.
-
-- **Interactive Map**  
-  Visualize all attended event locations on a digital map.
-
-- **Social Features**  
-  Follow other users and browse their collections to connect with the community.
+- **Upload or Photograph Tickets**  : Add ticket images or PDFs, or capture photos directly within the app.
+- **AI-Powered Ticket Scanning**  : Automatically extract event details—artist, venue, date, and location—using GPT-4o-mini via the OpenAI API.
+- **Personal Ticket Gallery**  : Manage a private, visual archive of your event history.
+- **Interactive Map**  : Visualize all attended event locations on a digital map.
+- **Social Features**  : Follow other users and browse their collections to connect with the community.
 
 
 ### 🛠 Tech Stack
